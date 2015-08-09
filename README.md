@@ -1,6 +1,8 @@
 #Stockpile
 The router hacking repo.
 
+- [Tweet](https://twitter.com/share)
+
 #Papers:
 - [JTAG Slides](http://www.devttys0.com/wp-content/uploads/2014/04/JTAG_Slides.pdf)
 - [How to hack millions of routers](https://media.blackhat.com/bh-us-10/presentations/Heffner/BlackHat-USA-2010-Heffner-How-to-Hack-Millions-of-Routers-slides.pdf)
@@ -47,7 +49,35 @@ The router hacking repo.
 - [Owning the Network: Adventures in Router Rootkits](https://www.youtube.com/watch?v=sWdqSG9IydA)
 - [Attacks Against 2wire Residential Gateway Routers](https://www.youtube.com/watch?v=Tx0DivWaDkA)
 
-#Tools
+#Exploits:
+- [NETGEAR ReadyNAS LAN /dbbroker 6.2.4 - Credential Disclosure(2015)](https://www.exploit-db.com/exploits/37720/)
+- [D-Link DSP-W w110 v1.05b01 - Multiple Vulnerabilities(2015)](https://www.exploit-db.com/exploits/37454/)
+- [Huawei Home Gateway UPnP/1.0 IGD/1.00 - Password Disclosure(2015)](https://www.exploit-db.com/exploits/37424/)
+- [Huawei Home Gateway UPnP/1.0 IGD/1.00 - Password Change Vulnerability(2015)](https://www.exploit-db.com/exploits/37425/)
+- [Dlink DSL-2750u and DSL-2730u - Authenticated Local File Disclosure(2015)](https://www.exploit-db.com/exploits/37516/)
+- [D-Link DSL-500B Gen 2 - (URL Filter Configuration Panel) Stored XSS(2015)](https://www.exploit-db.com/exploits/36988/)
+- [D-Link DSL-500B Gen 2 - (Parental Control Configuration Panel) Stored XSS(2015)](https://www.exploit-db.com/exploits/36987/)
+- [ZTE ZXHN H108L - Authentication Bypass](https://www.exploit-db.com/exploits/35272/)
+- [D-Link DSL-2730B Modem - XSS Injection Stored Exploit Lancfg2get.cgi](https://www.exploit-db.com/exploits/35751/)
+- [D-Link DSL-2730B Modem - XSS Injection Stored Exploit Wlsecrefresh.wl & Wlsecurity.wl(2015)](https://www.exploit-db.com/exploits/35747/)
+- [D-Link DSL-2730B Modem - XSS Injection Stored Exploit DnsProxy.cmd](https://www.exploit-db.com/exploits/35750/)
+- [D-Link Cookie Command Execution(2015)](https://www.exploit-db.com/exploits/37628/)
+- [D-Link Devices HNAP SOAPAction-Header Command Execution(2015)](https://www.exploit-db.com/exploits/37171/)
+- [15 TOTOLINK Router Models - Multiple RCE Vulnerabilities(2015)](https://www.exploit-db.com/exploits/37623/)
+- [TP-LINK WR842ND Remote Multiple SSID Directory Travesal Exploit(2013)](https://www.exploit-db.com/exploits/25810/)
+- [ZyXEL Router P-660HN-T1A - Login Bypass(2014)](https://www.exploit-db.com/exploits/32204/)
+- [D-Link DSR Router Series - Remote Root Shell Exploit(2013)](https://www.exploit-db.com/exploits/30062/)
+- [D-Link DSL-2740B (ADSL Router) Authentication Bypass(2013)](https://www.exploit-db.com/exploits/24563/)
+- [Mikrotik RouterOS sshd (ROSSSH) - Remote Preauth Heap Corruption(2013)](https://www.exploit-db.com/exploits/28056/)
+- [D-Link info.cgi POST Request Buffer Overflow](https://www.exploit-db.com/exploits/34063/)
+- [D-Link HNAP Request Remote Buffer Overflow](https://www.exploit-db.com/exploits/34064/)
+- [D-Link hedwig.cgi Buffer Overflow in Cookie Header](https://www.exploit-db.com/exploits/33863/)
+- [D-Link authentication.cgi Buffer Overflow](https://www.exploit-db.com/exploits/33862/)
+- [D-Link Unauthenticated UPnP M-SEARCH Multicast Command Injection](https://www.exploit-db.com/exploits/34065/)
+- [SAP Router - Timing Attack Password Disclosure(2014)](https://www.exploit-db.com/exploits/32919/)
+- [Sercomm TCP/32674 Backdoor Reactivation](https://www.exploit-db.com/exploits/32938/)
+
+#Tools:
 - [rext](https://github.com/j91321/rext)
 - [rpef](https://github.com/mncoppola/rpef)
 - [rebind](https://github.com/ScarletBlazin/rebind)
@@ -67,5 +97,5 @@ The router hacking repo.
 - [Routerpwn](http://www.routerpwn.com/)
 - [Router security](http://routersecurity.org/bugs.php)
 
-###Donations:
+#Donations:
 - 17vorVqtJqbDaN6ZC6UGE7UwGC4QVmDNMh
